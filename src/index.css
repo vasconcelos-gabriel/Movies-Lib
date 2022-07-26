@@ -6,16 +6,20 @@
 }
 
 body {
-  background-color: black;
+ 
+  background-color: rgb(51, 50, 50);
   color: white;
 }
 
 a {
   text-decoration: none;
-  color: #F7D354;
+  color: rgb(24, 238, 138);
   transition: 0.5s;
 }
 
 a:hover {
-  color: #b8930c;
+  color: rgb(25, 156, 95);
 }
+
+
+

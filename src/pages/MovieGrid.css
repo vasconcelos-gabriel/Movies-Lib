@@ -1,4 +1,4 @@
-.contaainer .title {
+.container .title {
   color: white;
   font-size: 2.5rem;
   text-align: center;
@@ -6,8 +6,10 @@
 
 }
 
+
+
 .title .query-text{
-  color: #f7d354;
+  color: rgb(24, 238, 138);
 }
 
 .movies-container{
@@ -46,8 +48,8 @@
 
 
 .movies-container div a {
-  background-color: #f7d354;
-  border: 2px solid #f7d354;
+  background-color: rgb(24, 238, 138);
+  border: 2px solid rgb(24, 238, 138);
   border-radius: 4px;
   color: black;
   padding: 1rem .5rem;
@@ -58,5 +60,7 @@
 }
 .movies-container div:hover{
   background-color: transparent;
-  color: #f7d354;
+  color: rgb(24, 238, 138);
+  border: 2px solid rgb(24, 238, 138);
+
 }
